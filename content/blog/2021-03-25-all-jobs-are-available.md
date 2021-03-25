@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: All Jobs Are Available
+title: All jobs are available
 date: 2021-03-25T15:11:54.048Z
 thumbnail: /images/uploads/code.jpeg
 ---
