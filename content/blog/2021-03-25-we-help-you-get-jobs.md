@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: We Help You Get Jobs
+title: We help you get your dream job
 date: 2021-03-25T15:10:17.848Z
 thumbnail: /images/uploads/men.jpg
 ---
