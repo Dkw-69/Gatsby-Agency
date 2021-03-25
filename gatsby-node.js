@@ -65,9 +65,9 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     const value = createFilePath({ node, getNode })
 
     createNodeField({
-      name: `slug`,
       node,
-      value,
+      name: `slug`,
+      value: `/blog${value}`
     })
   }
 }
