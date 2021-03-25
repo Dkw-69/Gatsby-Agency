@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Work From Home
+title: Work from home
 date: 2021-01-22T11:36:32.350Z
 thumbnail: /images/uploads/woman.jpg
 ---
